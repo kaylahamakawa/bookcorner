@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my book corner
 
-You can use the [editor on GitHub](https://github.com/kaylahamakawa/bookcorner/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Hello!  Welcome to _BookCorner_ which is my literary blog to review books I have read.  
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I have recently rekindled my love for reading during quarantine, and I have read 50 books so far this year!  So come along with me on my journey :)
 
 ### Markdown
 
