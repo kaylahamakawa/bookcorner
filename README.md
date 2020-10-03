@@ -6,6 +6,8 @@ I have recently rekindled my love for reading during quarantine, and I have read
 
 ### OCTOBER 2020
 
+## Currently Reading
+
 #Currently Reading
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
