@@ -4,9 +4,9 @@ Hello!  Welcome to _BookCorner_ which is my literary blog to talk about and revi
 
 I have recently rekindled my love for reading during quarantine, and I have read 50 books so far this year!  So come along with me on my reading journey :)
 
-### OCTOBER 2020
+## OCTOBER 2020
 
-## Currently Reading
+### Currently Reading
 
 #Currently Reading
 
