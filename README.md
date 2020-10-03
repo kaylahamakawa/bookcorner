@@ -1,10 +1,12 @@
 ## Welcome to my book corner
 
-Hello!  Welcome to _BookCorner_ which is my literary blog to review books I have read.  
+Hello!  Welcome to _BookCorner_ which is my literary blog to talk about and review the books I have read.  
 
-I have recently rekindled my love for reading during quarantine, and I have read 50 books so far this year!  So come along with me on my journey :)
+I have recently rekindled my love for reading during quarantine, and I have read 50 books so far this year!  So come along with me on my reading journey :)
 
-### Markdown
+### OCTOBER 2020
+
+#Currently Reading
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
