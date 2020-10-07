@@ -43,10 +43,9 @@ For more details see [GitHub Flavored Markdown](https://guides.github.com/featur
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kaylahamakawa/bookcorner/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-![Philadelphia's Magic Gardens. This place was so cool!](/assets/images/philly-magic-gardens.jpg "Philadelphia's Magic Gardens")
 
-![GitHub Logo](/images/logo.png)
 
-### Support or Contact
+### More Info
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Want to keep track of your reading?  I would suggest using Goodreads, and you can find my [goodreads here.](https://www.goodreads.com/user/show/104617296-kayla)  
+
