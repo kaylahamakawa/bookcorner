@@ -1,10 +1,10 @@
-## Welcome to my book corner
+# Welcome to my book corner
 
 Hello!  Welcome to _BookCorner_ which is my literary blog to talk about and review the books I have read.  
 
 I have recently rekindled my love for reading during quarantine, and I have read 50 books so far this year!  So come along with me on my reading journey :)
 
-# OCTOBER 2020
+## OCTOBER 2020
 
 ### Currently Reading
 
