@@ -9,7 +9,7 @@ I have recently rekindled my love for reading during quarantine, and I have read
 ### Currently Reading
 
 - _Lord of the Flies_
-- _The Picture of Dorian Gray
+- _The Picture of Dorian Gray_
 - _The Crucible_
 - _A Study in Charlotte_
 
