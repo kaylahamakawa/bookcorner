@@ -32,10 +32,11 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-![image](IMG_4928.JPG)
+![lotf](IMG_4928.JPG)
 
 
 
+![pictureofdoriangray](IMG_4937.JPG)
 
 ### More Info
 
