@@ -8,9 +8,12 @@ I have recently rekindled my love for reading during quarantine, and I have read
 
 ### Currently Reading
 
-#Currently Reading
+- _Lord of the Flies_
+- _The Picture of Dorian Gray
+- _The Crucible_
+- _A Study in Charlotte_
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
@@ -31,17 +34,6 @@ Syntax highlighted code block
 ```
 ![image](IMG_4928.JPG)
 
-[link](https://i.pinimg.com/originals/99/83/88/9983887a68f91a927a95308eb9791e5b.png)
-
-![IMG_4928.JPG](IMG_4928.JPG)
-
-
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kaylahamakawa/bookcorner/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 
 
