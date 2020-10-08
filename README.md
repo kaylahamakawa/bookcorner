@@ -15,8 +15,6 @@ I have recently rekindled my love for reading during quarantine, and I have read
 
 **Lord of the Flies**
 
-[Link](url) and ![Image](src)
-```
 ![lotf](IMG_4928.JPG)
 
 The basic premise of this story is how a group of boys who have landed on a deserted island from a plane crash learn to survive together.  This novel is an allegorical story that we are reading in English where seemingly everything in the story is a symbol of some sort.  (I will post a spoiler filled review later.)
