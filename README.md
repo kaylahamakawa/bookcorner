@@ -1,6 +1,6 @@
 # Welcome to my book corner
 
-Hello!  My name is Kayla Hamakawa, and welcome to _BookCorner_ which is my literary blog to talk about and review the books I have read.  
+Hello!  My name is Kayla Hamakawa, and welcome to _BookCorner_, which is my literary blog to talk about and review the books I have read.  
 
 I have recently rekindled my love for reading during quarantine, and I have read 45/50 books so far this year!  So come along with me on my reading journey :)
 
