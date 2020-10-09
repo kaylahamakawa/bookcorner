@@ -2,7 +2,7 @@
 
 Hello!  Welcome to _BookCorner_ which is my literary blog to talk about and review the books I have read.  
 
-I have recently rekindled my love for reading during quarantine, and I have read 50 books so far this year!  So come along with me on my reading journey :)
+I have recently rekindled my love for reading during quarantine, and I have read 45/50 books so far this year!  So come along with me on my reading journey :)
 
 ## OCTOBER 2020
 
@@ -17,13 +17,15 @@ I have recently rekindled my love for reading during quarantine, and I have read
 
 ![lotf](IMG_4928.JPG)
 
-The basic premise of this story is how a group of boys who have landed on a deserted island from a plane crash learn to survive together.  This novel is an allegorical story that we are reading in English where seemingly everything in the story is a symbol of some sort.  (I will post a spoiler filled review later.)
+The basic premise of this story is how a group of boys who have landed on a deserted island from a plane crash learn to survive on the island.  This is such a fun book to analyze, since it is an allegorical story that is rich in symbols, and I have been heavily annotating it.  (I will post a spoiler filled review later.)
 
 ![lotfcover](lotfcover.png)
 
+**The Picture of Dorian Gray**
 
 ![pictureofdoriangray](IMG_4937.JPG)
 
+I have just started this book, so I'm only a few pages in, but I'm so excited to get into it!  So far, it's intriguing and is definitely one of the easier classics to read.
 
 ### More Info
 
